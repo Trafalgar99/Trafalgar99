@@ -1,6 +1,6 @@
 # THIS MY LIFE
 
-![](./img/10.jpg)
+![](https://images.cnblogs.com/cnblogs_com/trafalgar999/1848811/o_20091610320310.jpg)
 
 **Target**
 
