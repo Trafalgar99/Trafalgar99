@@ -3,8 +3,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trafalgar99&theme=moonlight)
 
 <center   float="left">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trafalgar99&theme=moonlight"><img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trafalgar99&theme=moonlight">
-    <br/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trafalgar99&theme=moonlight"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trafalgar99&theme=moonlight&utcOffset=8">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trafalgar99&theme=moonlight" width=100><img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trafalgar99&theme=moonlight" width=100>
+    <br/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trafalgar99&theme=moonlight" width=100><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trafalgar99&theme=moonlight&utcOffset=8" width=100>
 </center>
 
 
