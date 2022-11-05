@@ -17,3 +17,7 @@
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
 </div>
+| <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trafalgar99&theme=moonlight" width=425> | <img   src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trafalgar99&theme=moonlight" width=425> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trafalgar99&theme=moonlight" width=425> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trafalgar99&theme=moonlight&utcOffset=8" width=425> |
+
