@@ -2,13 +2,13 @@
 
 I'm a student from HangZou, currently studying computer science and data science. I have a strong interest in programming.
 
-- 🎓 `I’m currently attending:`  ZheJiang University.
-- 🌱 `I’m currently learning:`  C++, Deep Learning...
-- 👯 `I’m looking to collaborate on:`  High Performance Computing.
+- 🎓 `I’m currently attending:`  Zhejiang University.
+- 🌱 `I’m currently learning:`  C++, DeepLearning...
+- 👯 `I’m looking to collaborate on:`  High-Performance Computing.
 - 🤔 `I’m looking for help with:`  Time Series Prediction.
 - 💼 `I’m seeking internships in:`  C++ Quantitative Financial Development/ AI Algorithm/ Graphics/ C++ Backend...
-- 💬 `Ask me about:`  C++, Machine Learning, Deep Learning, Data Analysis, Personal Life.
-- 📫 `How to reach me:`  trafal@foxmail.com
+- 💬 `Ask me about:`  C++, MachineLearning, DeepLearning, Data Analysis, Personal Life.
+- 📫 `How to reach me:`  trafal@foxmail.com.
 - 😄 `Pronouns:`  He.
 - ⚡ `Fun fact:` 
 
