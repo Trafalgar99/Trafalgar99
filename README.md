@@ -1,6 +1,6 @@
 # Hello, I'm Trafal 👋
 
-I'm a student from HangZou, currently studying computer science and data science. I have a strong interest in programming.
+I'm a student from HangZhou, currently studying computer science and data science. I have a strong interest in programming.
 
 - 🎓 `I’m currently attending:`  Zhejiang University.
 - 🌱 `I’m currently learning:`  C++, DeepLearning...
